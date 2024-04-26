@@ -1,0 +1,13 @@
+.main-containerr {
+    color: white;
+    text-align: center; /* Center-align the content */
+  }
+  
+  h1 {
+    font-size: 2rem; /* Increase the font size for h1 */
+  }
+  
+  p {
+    font-size: 1.2rem; /* Increase the font size for paragraphs */
+    font-weight: bold; /* Make the text bold */
+  }
